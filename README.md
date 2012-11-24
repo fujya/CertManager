@@ -3,9 +3,10 @@ CertManager
 
 CertManager
 
-Python script.
-Certificate Manager
-use modules.
+Python script.  
+Certificate Manager  
+
+*use modules.*
  - Flask
  - pymongo
  - Jinja2
