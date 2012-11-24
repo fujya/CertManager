@@ -15,7 +15,7 @@ Certificate Manager
 Setting
 ===========
 install MongoDB memcached  
-easy_install python modules 
+easy_install python modules  
 Startup application  
 
 
